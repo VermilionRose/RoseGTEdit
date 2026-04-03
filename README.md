@@ -1,6 +1,6 @@
 # RoseGTEdit
 
-A desktop GUI tool for bulk-editing animation storyboards in [StudioCoast GT Title Editor](https://www.vmix.com/products/vmix-gt-title-designer.aspx) files (`.gtzip` / `.gtxml`).
+A desktop GUI tool for bulk-editing animation storyboards designed in [StudioCoast GT Title Editor](https://www.vmix.com/products/vmix-gt-title-designer.aspx) files (`.gtzip` / `.gtxml`) for vMix.
 
 Built with Python and PyQt6.
 
