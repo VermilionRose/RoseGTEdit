@@ -35,7 +35,7 @@ Built with Python and PyQt6.
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/RoseGTEdit.git
+git clone https://github.com/VermilionRose/RoseGTEdit.git
 cd RoseGTEdit
 
 # (Optional) create a virtual environment
